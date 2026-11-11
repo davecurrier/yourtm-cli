@@ -1,3 +1,5 @@
+> **This repository has moved to [davecurrier/yourtm](https://github.com/davecurrier/yourtm).** It is archived and no longer updated. Install with `curl -fsSL https://yourtm.dev/install | bash`.
+
 # YourTM CLI
 
 **High-Performance Tagging** — Zero Bloat.
